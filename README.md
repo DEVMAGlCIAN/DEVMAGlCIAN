@@ -6,9 +6,7 @@
   <img src="https://files.catbox.moe/wlfaib.png" width="1000"/>
 </div>
 
-  <img src="https://files.catbox.moe/d7m38z.png" alt="(https://github.com/wondercatfuI)" width="100"/>
-</a>
+[<img alt="alt_text" width="160px" src="https://files.catbox.moe/d7m38z.png" />](https://github.com/wondercatfuI)
+<div id="header" align="center">
   <img src="https://files.catbox.moe/qajh2l.png" width="1000"/>
 </div>
-
-[<img alt="alt_text" width="60px" src="https://files.catbox.moe/9igu0u.png" />](https://www.tiktok.com/@interunel?_r=1&_t=ZS-92k2tcc4HIq)
